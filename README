@@ -1,0 +1,33 @@
+-------------------------------------------------------------------------------
+Project Name: Convert2Mp3 by ShowMeYourCode.co.nf
+-------------------------------------------------------------------------------
+Version 0.1
+Release date: 12/29/2013
+-------------------------------------------------------------------------------
+Project state:
+ beta 
+-------------------------------------------------------------------------------
+
+Project description
+
+A full converter with many options for downloading videos for youtube and converting 
+mp3 music format.
+
+-------------------------------------------------------------------------------
+Dependencies:
+
+youtube-dl
+ffmpeg
+-------------------------------------------------------------------------------
+Documentation
+
+You can find documentation at ShowMeYourCode.co.nf
+-------------------------------------------------------------------------------
+Installation instructions
+
+Open a terminal browsing in the location where all Convert2Mp3 files are. 
+Give:
+
+Just run Convert2Mp3 executable#bash install.sh 
+
+-------------------------------------------------------------------------------
