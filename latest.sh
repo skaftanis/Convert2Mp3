@@ -3,7 +3,8 @@
 #this script find the latest .mp4 file and convert it to mp3 if if it have users approval
 
 
-	FOLDER=`cat directory.txt`; #default directory ~/Music #TODO #DONE
+	#FOLDER=`cat directory.txt`; #default directory ~/Music #TODO #DONE
+	FOLDER=~/Music
 
 while :; do 
 
