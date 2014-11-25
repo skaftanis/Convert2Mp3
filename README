@@ -1,8 +1,9 @@
 -------------------------------------------------------------------------------
 Project Name: Convert2Mp3 by ShowMeYourCode.co.nf
 -------------------------------------------------------------------------------
-Version 0.1
-Release date: 12/29/2013
+Version 0.2
+Release date: 29/12/2013
+0.2 update 25/11/2014
 -------------------------------------------------------------------------------
 Project state:
  beta 
@@ -25,8 +26,7 @@ You can find documentation at ShowMeYourCode.co.nf
 -------------------------------------------------------------------------------
 Installation instructions 
 
-No really installation file yet.
-
-Just run Convert2Mp3 executable
+Install ffmpeg and youtube-dl before run this and
+just run Convert2Mp3 executable
 
 -------------------------------------------------------------------------------
