@@ -3,6 +3,8 @@
 #this script take a youtube link from youtube, a name and convert it 
 #to an mp3 song
 
+####ELENIIIIIIIIII
+
 
 #ask info from user
 LINK=`zenity --entry --text="Enter the youtube link"`;
